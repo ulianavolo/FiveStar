@@ -1,0 +1,39 @@
+body {
+    font-family: Akshar;
+    background-color: rgb(210, 116, 104);
+}
+h1{
+    text-align: center;
+    background-color: rgb(197, 4, 4);
+    color: rgb(61, 6, 6);
+}
+h2{
+    text-align: right;
+  
+}
+a{
+    color: rgb(61, 6, 6);
+    text-decoration: none;
+    background-color: rgb(197, 4, 4);
+    border-radius: 8px;
+    padding:3px;
+    border: 2px solid black;
+
+}
+.pizza{
+    background-color: darksalmon;
+    text-align: center;
+}
+.vidhyky{
+    background-color: firebrick;
+    text-align: right;
+}
+p{
+    color: rgb(51, 5, 5);
+}
+footer{
+    background-color: rgb(116, 154, 60);
+}
+
+
+
